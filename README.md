@@ -12,7 +12,7 @@ My shame:\
 ---
 My pride:\
 Домашні завдання з Ютубу: [lessons ProgerSchool](https://github.com/UnluckyCatMeow/base-c-)\
-Спільний проєкт з Клюєвим Нікітою з ментором Іллею Негусєвим: [GameStoreExample](https://github.com/UnluckyCatMeow/GameStoreExample)
+Спільний проєкт з Клюєвим Нікітою та ментором Іллею Негусєвим: [GameStoreExample](https://github.com/UnluckyCatMeow/GameStoreExample)
 
 [Практична робота 1](https://github.com/UnluckyCatMeow/OOP-c-sharp/tree/Pr1)
 
