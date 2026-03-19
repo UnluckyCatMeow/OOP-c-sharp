@@ -15,5 +15,5 @@ Homework from YouTube lessons and other projects:
 [lessons ProgerSchool](https://github.com/UnluckyCatMeow/base-c-)\
 Joint project with Nikita Klyuyev with mentor Ilya Negusyev  [GameStoreExample](https://github.com/UnluckyCatMeow/GameStoreExample)
 
-[Практична робота 1] (очікується)\
+[Практична робота 1](https://github.com/UnluckyCatMeow/OOP-c-sharp/tree/Pr1)
 
