@@ -13,7 +13,7 @@ My shame:\
 My pride:\
 Homework from YouTube lessons and other projects: 
 [lessons ProgerSchool](https://github.com/UnluckyCatMeow/base-c-)\
-[Joint project with Nikita Klyuyev with mentor Ilya Negusyev](https://github.com/UnluckyCatMeow/GameStoreExample)\
+Joint project with Nikita Klyuyev with mentor Ilya Negusyev [GameStoreExample](https://github.com/UnluckyCatMeow/GameStoreExample)
 
 [Лабораторна робота 2.1] (очікується)\
 
