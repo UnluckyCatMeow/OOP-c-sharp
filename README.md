@@ -1,7 +1,9 @@
-# **Інформація про студента**
+# *Інформація про студента*
 *Студентка: Грищенко Дар'я*\
 *Група: ПД-25*
 ---
+# **Навігація**
+
 3 семестр:\
 [Лабораторна робота 1](https://github.com/UnluckyCatMeow/OOP-c-sharp/tree/lab1)\
 [Лабораторна робота 2](https://github.com/UnluckyCatMeow/OOP-c-sharp/tree/lab2)\
