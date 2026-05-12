@@ -18,3 +18,5 @@
 [Практична робота 1](https://github.com/UnluckyCatMeow/OOP-c-sharp/tree/Pr1)
 
 [Модульна робота 1](https://github.com/UnluckyCatMeow/OOP-c-sharp/tree/Modular1)
+
+[Курсова робота](https://github.com/UnluckyCatMeow/course-work)
